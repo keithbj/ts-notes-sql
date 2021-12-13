@@ -1,0 +1,6 @@
+{
+  "dbServer": "localhost",
+  "db": "notes",
+  "dbUser": "root",
+  "dbPassword": ""
+}
